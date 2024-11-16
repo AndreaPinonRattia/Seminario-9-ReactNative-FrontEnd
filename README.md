@@ -1,0 +1,3 @@
+- Clonar los repositorios
+- Crear un componente de búsqueda de experiencias, al introducir el nombre de un usuario se muestran las experiencias
+- Añadir el componente en la barra de navegación
